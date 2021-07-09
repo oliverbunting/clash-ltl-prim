@@ -1,0 +1,12 @@
+cradle:
+  stack:
+    - path: ./src
+      component: "clash-ltl-prim:lib"
+    - path: ./bin
+      component: "clash-ltl-prim:exe:clash"
+    - path: ./bin
+      component: "clash-ltl-prim:exe:clashi"
+    - path: ./tests
+      component: "clash-ltl-prim:test:test-library"
+    - path: ./tests
+      component: "clash-ltl-prim:test:doctests"
