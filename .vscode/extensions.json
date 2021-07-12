@@ -1,3 +1,6 @@
 {
-  "recommendations": ["haskell.haskell"]
+  "recommendations": [
+    "haskell.haskell",
+    "mustafahafidi.liquidhaskell-diagnostics"
+  ]
 }

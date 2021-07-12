@@ -10,11 +10,10 @@ extra-deps:
   - clash-lib-1.4.2
   - clash-ghc-1.4.2
   # Required for liquid haskell
-  - liquid-base-4.15.0.0
+  - liquid-base-4.14.1.0
   - liquidhaskell-0.8.10.2
   - liquid-ghc-prim-0.7.0
+  - Diff-0.3.4
 
-# Needed due to liquid haskell deps
-# - Diff 0.4 : (<0.4)
-# - optparse-applicative 0.16.1 (<0.16)
+# Needed due to some liquid haskell dependencies
 allow-newer: true
