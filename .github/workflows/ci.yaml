@@ -26,6 +26,9 @@ jobs:
         enable-stack: true
         stack-version: ${{ matrix.stack }}
 
+    - name: 🏗️ Install Z3
+      uses: pavpanchekha/setup-z3@1.2.2
+
     - uses: actions/cache@v2.1.3
       name: 🏦 Cache ~/.stack
       with:

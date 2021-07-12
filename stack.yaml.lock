@@ -46,6 +46,27 @@ packages:
       sha256: 030491ab57b56c0c7b93eea9f77ba8d90e2d0ee9174611e5c08e6ecc58145af5
   original:
     hackage: clash-ghc-1.4.2
+- completed:
+    hackage: liquid-base-4.15.0.0@sha256:a28cc9217966f18ef02f9b7e7c060f7682187e2c37ca20ce80088cc28860eb35,9129
+    pantry-tree:
+      size: 14987
+      sha256: 02b9ddefb47927f2cefdba09f1ac7164a5aafd7f31bfb4a577fca8905c012325
+  original:
+    hackage: liquid-base-4.15.0.0
+- completed:
+    hackage: liquidhaskell-0.8.10.2@sha256:fc79e92fc4de0aec47965e457915ef7a5be9fd1d3ec1d3a681a9909f5286bf8f,15777
+    pantry-tree:
+      size: 69560
+      sha256: c8bb733484e14ae2ca10a4cb726701f52258e170b246d5f378cbc642bc1d0082
+  original:
+    hackage: liquidhaskell-0.8.10.2
+- completed:
+    hackage: liquid-ghc-prim-0.7.0@sha256:8d99d771235d388ed54393faa2712c880e60b659fa574877fc5f383d4d49f4ed,1763
+    pantry-tree:
+      size: 912
+      sha256: 2e85095d397912b2d5b65054cd613e93dd7aa31ed4a4ff4fd265be207ece35e0
+  original:
+    hackage: liquid-ghc-prim-0.7.0
 snapshots:
 - completed:
     size: 585392
